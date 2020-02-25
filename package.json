@@ -1,0 +1,21 @@
+{
+  "name": "pwa-espanol",
+  "version": "1.0.0",
+  "description": "A complete guide to PWAs. Spanish.",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Carlos Andrade",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
